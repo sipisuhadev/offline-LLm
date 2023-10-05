@@ -2,3 +2,4 @@ transformers
 streamlit
 nltk
 protobuf
+facebook/bart-large-cnn==4.11.0
